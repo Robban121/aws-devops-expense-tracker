@@ -25,8 +25,8 @@ Key capabilities:
 
 ## Architecture
 
-![Architecture](diagrams/architecture.png)
-
+[Architecture]
+diagrams/AWS Diagram.drawio.png
 ---
 
 ## Technology Stack
@@ -75,19 +75,25 @@ Terraform provisions:
 
 ### GitLab CI/CD Pipeline
 
-![Pipeline](screenshots/gitlab-pipeline.png)
+[Pipeline]
+snapshots/CICD_1.png
+snapshots/CICD_2.png
+snapshots/CICD_3.png
 
 ### ArgoCD Application
 
-![ArgoCD](screenshots/argocd-application.png)
+[ArgoCD]
+snapshots/ArgoCD.png
 
 ### EKS Cluster
 
-![EKS](screenshots/eks-cluster.png)
-
+[EKS]
+snapshots/EKS_1.png
+snapshots/EKS_2.png
 ### Expense Tracker Dashboard
 
-![Dashboard](screenshots/expense-dashboard.png)
+[Dashboard]
+snapshots/application_dashboard.png.png
 
 ---
 
